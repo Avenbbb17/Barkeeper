@@ -12,7 +12,7 @@ In diesem Zeitrahmen möchte ich wissen wie man eine gut Website baut.
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
+- [ ] 25.08.2023 Bei der nächsten Siztung will ich die Module 319 und 431 weiter bearbeiten.
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
